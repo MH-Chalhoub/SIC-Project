@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/03 - ScreenShots/sic.png" alt="alt text" width="450" height="250">
+  <img src="/03 - ScreenShots/sic.png" alt="alt text" width="100%" height="100%">
 </p>
 # SIC
 This app is a android based sharing platform for non critical reusable medical devices
