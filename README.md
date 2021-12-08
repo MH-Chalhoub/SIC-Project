@@ -1,4 +1,6 @@
-![GitHub Logo](/03 - ScreenShots/sic.png)
+<p align="center">
+  <img src="//03 - ScreenShots/sic.png" alt="alt text" width="450" height="250">
+</p>
 # SIC
 This app is a android based sharing platform for non critical reusable medical devices
 
